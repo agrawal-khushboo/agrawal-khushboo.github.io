@@ -40,6 +40,10 @@ li {
   line-height: 1.5rem;
 }
 
+.img12{
+float:left; 
+}
+
 img {
 /*   width: 100%; */
 }
